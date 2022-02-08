@@ -7,4 +7,5 @@ Check out the patterns:
 - [Builder](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/builder.ts)
 - [Prototype](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/prototype.ts)
 - [Singleton](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/singleton.ts)
+- [Adapter](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/adapter.ts)
 - More on the way...
