@@ -8,4 +8,5 @@ Check out the patterns:
 - [Prototype](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/prototype.ts)
 - [Singleton](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/singleton.ts)
 - [Adapter](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/adapter.ts)
+- [Composite](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/composite.ts)
 - More on the way...
