@@ -9,4 +9,5 @@ Check out the patterns:
 - [Singleton](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/singleton.ts)
 - [Adapter](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/adapter.ts)
 - [Composite](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/composite.ts)
+- [Decorator](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/decorator.ts)
 - More on the way...
