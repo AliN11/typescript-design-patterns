@@ -5,6 +5,15 @@
  * at run-time without changing their classes and relying on sub-classing. Each
  * behavior is defined in a distinct class called decorator and will wrap the
  * intended object to add the behavior to that.
+ *
+ * In this example we have a hotel and rooms with basic specifications. We want
+ * to add behaviors to rooms on demand.
+ *
+ * This content is inspired by:
+ * https://refactoring.guru/design-patterns/decorator
+ *
+ * You can also read a detailed explanation of this pattern here (in Persian):
+ * https://ditty.ir/posts/decorator-design-pattern/5dPv5
  */
 
 /**
