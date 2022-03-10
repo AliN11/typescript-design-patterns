@@ -10,4 +10,5 @@ Check out the patterns:
 - [Adapter](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/adapter.ts)
 - [Composite](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/composite.ts)
 - [Decorator](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/decorator.ts)
+- [Facade](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/facade.ts)
 - More on the way...
