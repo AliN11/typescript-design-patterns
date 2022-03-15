@@ -11,4 +11,5 @@ Check out the patterns:
 - [Composite](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/composite.ts)
 - [Decorator](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/decorator.ts)
 - [Facade](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/facade.ts)
+- [Proxy](https://github.com/AliN11/typescript-design-patterns/blob/main/patterns/proxy.ts)
 - More on the way...
